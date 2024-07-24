@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kritz72
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Back-end Development...
-- 📫 You can reach me through my email krittika.mondal2002@gmail.com 
-- 😄 Pronouns: She/Her
+- 📫 Reach me krittika.mondal2002@gmail.com 
+  
 
 <!---
 Kritz72/Kritz72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
