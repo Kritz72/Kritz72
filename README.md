@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kritz72
-- 👀 I’m interested in Web Development...
-- 🌱 I’m currently learning Javascript,Flask framework...
-- 📫 You can reach me through my email krittika.mondal2002@gmail.com  
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Back-end Development...
+- 📫 You can reach me through my email krittika.mondal2002@gmail.com 
 - 😄 Pronouns: She/Her
 
 <!---
